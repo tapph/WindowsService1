@@ -19,6 +19,7 @@ namespace WindowsService1
 
         protected override void OnStart(string[] args)
         {
+            //text change
         }
 
         protected override void OnStop()
